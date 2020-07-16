@@ -1,10 +1,8 @@
-
-
 ## React Images and Buttons Application
 
 This is an example of images gallery buttons created with React.js library Google Font Apis and Material UI Components.
 
-Application hosted in Heroku: 
+Application hosted in Heroku: https://young-escarpment-76727.herokuapp.com/
 
 In the project directory, you can run:
 
