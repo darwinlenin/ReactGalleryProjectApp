@@ -1,0 +1,14 @@
+@import url('https://fonts.googleapis.com/css2?family=Grenze+Gotisch:wght@800&display=swap');
+
+h2 {
+    color: blue;
+}
+
+.styleContent {
+    color: purple;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+
+.note {
+    font-family: 'Grenze Gotisch', cursive;
+}

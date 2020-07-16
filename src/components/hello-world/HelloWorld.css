@@ -1,0 +1,40 @@
+
+@import url('https://fonts.googleapis.com/css2?family=Grenze+Gotisch:wght@800&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Grenze+Gotisch:wght@800&family=Modak&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Grenze+Gotisch:wght@800&family=Modak&family=Monofett&family=Uncial+Antiqua&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Condiment&family=Grenze+Gotisch:wght@800&family=Modak&family=Monofett&family=Uncial+Antiqua&display=swap');
+h1{
+    color:blue;
+    font-family: 'Grenze Gotisch', cursive;
+    font-family: 'Modak', cursive;
+    font-family: 'Monofett', cursive;
+    font-family: 'Uncial Antiqua', cursive;
+}
+.styleContent{
+    color:purple;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+.styleContentTwo{
+    color:rgb(1, 12, 22);
+    font-size: 1.6em;
+    font-family: 'Condiment', cursive;
+    font-family: 'Grenze Gotisch', cursive;
+    font-family: 'Modak', cursive;
+    font-family: 'Monofett', cursive;
+    font-family: 'Uncial Antiqua', cursive;
+}
+
+.note{
+    font-family: 'Grenze Gotisch', cursive;
+    font-size: 2em;
+}
+.noteSubtittle{
+    font-family: 'Grenze Gotisch', cursive;
+    font-family: 'Modak', cursive;
+    font-size: 1.3em;
+}
+
+.baseStyle{
+    text-align: center;
+    margin-bottom: 10px;
+}
