@@ -9,7 +9,7 @@ import ComponentImagesAdvanced from './components/Component-Images-Advanced/Comp
 
 ReactDOM.render(
   <React.StrictMode>
-    <HelloWorld name="Darwin Palma" images="Images" type='note'/>
+    <HelloWorld name="Darwin Palma" images="Projects" type='note'/>
     <ComponentImagesAdvanced/>
     {/* <App/> */}
   </React.StrictMode>,
