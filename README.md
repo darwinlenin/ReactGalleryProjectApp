@@ -1,4 +1,4 @@
-## React Images and Buttons Application
+## React Gallery Projects Application
 
 This is an example of images gallery buttons created with React.js library Google Font Apis and Material UI Components.
 

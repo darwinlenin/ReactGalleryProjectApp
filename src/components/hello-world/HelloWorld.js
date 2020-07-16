@@ -8,7 +8,7 @@ class HelloWorld extends React.Component{
         return (
           <div className="baseStyle">
             <h1>Images App</h1>
-            <p className="styleContentTwo">You'r Welcome {this.props.name}</p>
+            <p className="styleContentTwo">Projects realized by {this.props.name}</p>
             <p className="noteSubtittle"> Gallery example of { this.props.images} </p>
             <p className={this.props.type}>
               This is an example of images gallery buttons created with React.js library Google Font Apis and Material UI Components.
