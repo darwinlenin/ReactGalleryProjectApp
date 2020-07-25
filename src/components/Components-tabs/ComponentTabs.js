@@ -93,32 +93,32 @@ export default function ScrollableTabsButtonForce() {
         </Button>
       </TabPanel>
       <TabPanel value={value} index={1}>
-        <Button variant="contained" color="yellow" href="https://www.youtube.com/watch?v=s6UJBLbIzHY&t=119s" target="_blank">
+        <Button variant="contained" color="secondary" href="https://www.youtube.com/watch?v=s6UJBLbIzHY&t=119s" target="_blank">
           Photogrametry 3DF Zephir Unity
         </Button>
       </TabPanel>
       <TabPanel value={value} index={2}>
-        <Button variant="contained" color="secondary" href="https://www.youtube.com/watch?v=19bvy8Df0AY&t=712s" target="_blank">
+        <Button variant="contained" color="primary" href="https://www.youtube.com/watch?v=19bvy8Df0AY&t=712s" target="_blank">
           Unity ARCore Portal VR
         </Button>
       </TabPanel>
       <TabPanel value={value} index={3}>
-        <Button variant="contained" href="https://www.youtube.com/watch?v=ei5YgOuy41Y&t=1322s" target="_blank">
+        <Button variant="contained" color="secondary" href="https://www.youtube.com/watch?v=ei5YgOuy41Y&t=1322s" target="_blank">
           Unity + Vuforia VR
         </Button>
       </TabPanel>
       <TabPanel value={value} index={4}>
-        <Button variant="contained" href="https://www.youtube.com/watch?v=yHAR8gQz2Lg&t=20s" target="_blank">
+        <Button variant="contained" color="primary" href="https://www.youtube.com/watch?v=yHAR8gQz2Lg&t=20s" target="_blank">
           Launch Apps in Google Play Store 
         </Button>
       </TabPanel>
       <TabPanel value={value} index={5}>
-      <Button variant="contained" href="https://www.youtube.com/watch?v=XSRsc2VK2nE&t=3s" target="_blank">
+      <Button variant="contained" color="secondary" href="https://www.youtube.com/watch?v=XSRsc2VK2nE&t=3s" target="_blank">
         Monetizing Apps with Unity Ads 
       </Button>      
       </TabPanel>
       <TabPanel value={value} index={6}>
-      <Button variant="contained" href="https://app.pluralsight.com/profile/darwin-palma" target="_blank">
+      <Button variant="contained" color="primary" href="https://app.pluralsight.com/profile/darwin-palma" target="_blank">
         Unity Certifications by Pluralsight 
       </Button>  
       </TabPanel>
