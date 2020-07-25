@@ -72,7 +72,7 @@ export default class ComponentCarousel extends Component {
 
     render() {
         //const basicHeader = <h2>Basic</h2>;
-        const customHeader = <h2 className="p-carousel-header">Carousel gallery of Preview Apps</h2>
+        const customHeader = <h2 className="p-carousel-header">Preview Gallery of Apps and Projects Platforms</h2>
         //const verticalHeader = <h2>Vertical</h2>
 
         return (

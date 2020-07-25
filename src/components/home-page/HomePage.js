@@ -17,10 +17,10 @@ class HomePage extends React.Component{
             <p className="styleContentTwo">Realized by: {this.props.name}</p>
             {<ComponentCard/>}
             <ComponentCarousel/>
-            <p className="noteSubtittle"> Tabs of repository { this.props.images} </p>
+            <p className="noteSubtittle"> Youtube Video Tutorials of Unity Engine - VR - Multiplayer Games - Google Play Store Apps { this.props.images} </p>
             {<ComponentTabs/>}
             <h2>
-              Throught the following gallery you can you access to the projects was public hosted to preview.            
+              By the following gallery you can you access to preview some another projects published by @darwinlenin in ZoeGeop Technologies.            
             </h2>
             <ComponentImagesAdvanced/>
 

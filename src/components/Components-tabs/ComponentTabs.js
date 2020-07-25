@@ -78,43 +78,49 @@ export default function ScrollableTabsButtonForce() {
           textColor="primary"
           aria-label="scrollable force tabs example"
         >
-          <Tab label="Casting App" icon={<AddAPhoto />} {...a11yProps(0)} />
-          <Tab label="Item Two" icon={<FavoriteIcon />} {...a11yProps(1)} />
-          <Tab label="Item Three" icon={<PersonPinIcon />} {...a11yProps(2)} />
-          <Tab label="Item Four" icon={<HelpIcon />} {...a11yProps(3)} />
-          <Tab label="Item Five" icon={<ShoppingBasket />} {...a11yProps(4)} />
-          <Tab label="Item Six" icon={<ThumbDown />} {...a11yProps(5)} />
-          <Tab label="Item Seven" icon={<ThumbUp />} {...a11yProps(6)} />
+          <Tab label="Unity Photon Networking Series" icon={<AddAPhoto />} {...a11yProps(0)} />
+          <Tab label="Photogrametry 3DF Zephir Unity" icon={<FavoriteIcon />} {...a11yProps(1)} />
+          <Tab label="Unity ARCore Portal VR" icon={<PersonPinIcon />} {...a11yProps(2)} />
+          <Tab label="Unity + Vuforia VR" icon={<HelpIcon />} {...a11yProps(3)} />
+          <Tab label="Launch Apps in Google Play Store" icon={<ShoppingBasket />} {...a11yProps(4)} />
+          <Tab label="Monetizing Apps with Unity Ads" icon={<ThumbDown />} {...a11yProps(5)} />
+          <Tab label="Unity Certifications by Pluralsight" icon={<ThumbUp />} {...a11yProps(6)} />
         </Tabs>
       </AppBar>
       <TabPanel value={value} index={0}>
-        <Button variant="contained" color="primary" href="https://castingagencyfsnd1.herokuapp.com/" target="_blank">
-          Python Flask Casting Agency App
+        <Button variant="contained" color="primary" href="https://www.youtube.com/watch?v=dpklRdGEUAk&t=39s" target="_blank">
+          Unity Photon Networking Series
         </Button>
       </TabPanel>
       <TabPanel value={value} index={1}>
-        <Button variant="contained" color="yellow" href="https://angularvideostreaming.herokuapp.com/" target="_blank">
-          Angular Video Streaming App
+        <Button variant="contained" color="yellow" href="https://www.youtube.com/watch?v=s6UJBLbIzHY&t=119s" target="_blank">
+          Photogrametry 3DF Zephir Unity
         </Button>
       </TabPanel>
       <TabPanel value={value} index={2}>
-        <Button variant="contained" color="secondary" href="https://polar-tor-85813.herokuapp.com/" target="_blank">
-          Phaser Snake Game App
+        <Button variant="contained" color="secondary" href="https://www.youtube.com/watch?v=19bvy8Df0AY&t=712s" target="_blank">
+          Unity ARCore Portal VR
         </Button>
       </TabPanel>
       <TabPanel value={value} index={3}>
-        <Button variant="contained" href="https://www.zoegeop.com" target="_blank">
-          See more in zoegeop.com
+        <Button variant="contained" href="https://www.youtube.com/watch?v=ei5YgOuy41Y&t=1322s" target="_blank">
+          Unity + Vuforia VR
         </Button>
       </TabPanel>
       <TabPanel value={value} index={4}>
-        Item Five
+        <Button variant="contained" href="https://www.youtube.com/watch?v=yHAR8gQz2Lg&t=20s" target="_blank">
+          Launch Apps in Google Play Store 
+        </Button>
       </TabPanel>
       <TabPanel value={value} index={5}>
-        Item Six
+      <Button variant="contained" href="https://www.youtube.com/watch?v=XSRsc2VK2nE&t=3s" target="_blank">
+        Monetizing Apps with Unity Ads 
+      </Button>      
       </TabPanel>
       <TabPanel value={value} index={6}>
-        Item Seven
+      <Button variant="contained" href="https://app.pluralsight.com/profile/darwin-palma" target="_blank">
+        Unity Certifications by Pluralsight 
+      </Button>  
       </TabPanel>
     </div>
   );

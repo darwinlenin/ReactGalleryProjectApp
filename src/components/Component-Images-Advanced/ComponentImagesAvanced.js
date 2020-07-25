@@ -5,10 +5,10 @@ import Typography from '@material-ui/core/Typography';
 
 const images = [
   {
-    url: 'static/breakfast-1835478_640.jpg',
-    title: 'Breakfast',
+    url: 'static/KARTING-GAME-1.png',
+    title: 'Unity Engine Connect Games',
     width: '40%',
-    href: 'https://angularvideostreaming.herokuapp.com/',
+    href: 'https://connect.unity.com/mg/other/karting-game-zoegeop',
   },
   {
     url: 'static/LogoSoloZGParaVideo.png',
@@ -17,10 +17,10 @@ const images = [
     href: 'https://www.zoegeop.com/',
   },
   {
-    url: 'static/dji-5331570_640.jpg',
-    title: 'Drones',
+    url: 'static/Photon-2-parte-2.png',
+    title: 'Youtube Channel',
     width: '30%',
-    href: 'https://polar-tor-85813.herokuapp.com/',
+    href: 'https://www.youtube.com/channel/UCazdAU5FANybKAOHle969Sg',
   },
 ];
 
