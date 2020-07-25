@@ -7,9 +7,9 @@ import Tab from '@material-ui/core/Tab';
 import AddAPhoto from '@material-ui/icons/AddAPhoto';
 import FavoriteIcon from '@material-ui/icons/Favorite';
 import PersonPinIcon from '@material-ui/icons/PersonPin';
-import HelpIcon from '@material-ui/icons/Help';
+import CheckCircleIcon from '@material-ui/icons/CheckCircle';
 import ShoppingBasket from '@material-ui/icons/ShoppingBasket';
-import ThumbDown from '@material-ui/icons/ThumbDown';
+import YouTubeIcon from '@material-ui/icons/YouTube';
 import ThumbUp from '@material-ui/icons/ThumbUp';
 import Typography from '@material-ui/core/Typography';
 import Box from '@material-ui/core/Box';
@@ -81,9 +81,9 @@ export default function ScrollableTabsButtonForce() {
           <Tab label="Unity Photon Networking Series" icon={<AddAPhoto />} {...a11yProps(0)} />
           <Tab label="Photogrametry 3DF Zephir Unity" icon={<FavoriteIcon />} {...a11yProps(1)} />
           <Tab label="Unity ARCore Portal VR" icon={<PersonPinIcon />} {...a11yProps(2)} />
-          <Tab label="Unity + Vuforia VR" icon={<HelpIcon />} {...a11yProps(3)} />
+          <Tab label="Unity + Vuforia VR" icon={<CheckCircleIcon />} {...a11yProps(3)} />
           <Tab label="Launch Apps in Google Play Store" icon={<ShoppingBasket />} {...a11yProps(4)} />
-          <Tab label="Monetizing Apps with Unity Ads" icon={<ThumbDown />} {...a11yProps(5)} />
+          <Tab label="Monetizing Apps with Unity Ads" icon={<YouTubeIcon />} {...a11yProps(5)} />
           <Tab label="Unity Certifications by Pluralsight" icon={<ThumbUp />} {...a11yProps(6)} />
         </Tabs>
       </AppBar>

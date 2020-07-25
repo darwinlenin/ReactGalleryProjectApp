@@ -57,7 +57,7 @@ export default function RecipeReviewCard() {
           </Avatar>
         }
         action={
-          <IconButton aria-label="settings">
+          <IconButton onClick={event =>  window.open("https://www.linkedin.com/in/darwinlenin/","_blank")} aria-label="settings">
             <MoreVertIcon />
           </IconButton>
         }
