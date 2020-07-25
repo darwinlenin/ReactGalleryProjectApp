@@ -5,19 +5,22 @@ import Typography from '@material-ui/core/Typography';
 
 const images = [
   {
-    url: '../../breakfast-1835478_640.jpg',
+    url: 'static/breakfast-1835478_640.jpg',
     title: 'Breakfast',
     width: '40%',
+    href: 'https://angularvideostreaming.herokuapp.com/',
   },
   {
-    url: '../../key-biscayne-2115493_640.jpg',
-    title: 'VR',
+    url: 'static/LogoSoloZGParaVideo.png',
+    title: 'ZoeGeop Technologies',
     width: '30%',
+    href: 'https://www.zoegeop.com/',
   },
   {
-    url: '../../dji-5331570_640.jpg',
+    url: 'static/dji-5331570_640.jpg',
     title: 'Drones',
     width: '30%',
+    href: 'https://polar-tor-85813.herokuapp.com/',
   },
 ];
 
@@ -108,7 +111,7 @@ export default function ButtonBases() {
           style={{
             width: image.width,
           }}
-          href="https://www.github.com/darwinlenin"
+          href={image.href}
           target="_blank"
         >
           <span

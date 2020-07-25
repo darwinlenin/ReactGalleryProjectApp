@@ -1,0 +1,11 @@
+{
+    "data": [
+        { "brand": "Face-Recognition-App", "heigth":"120", "width":"120", "format": "png", "year": 2020, "color": "(TensorFlow)", "vin": "dsad231ff", "handleClick":"https://facerecognitiontensorflowjsapi.netlify.app/" },
+        { "brand": "Youtube-Progress-Bar", "format": "png", "heigth":"120", "width":"72", "year": 2020, "color": "(HTML5 + VanillaJS)", "vin": "gwregre345", "handleClick":"https://ytlike-progress-bar-darwin-palma.netlify.app/" },
+        { "brand": "Gif-Search", "format": "png", "heigth":"120", "width":"160", "year": 2020, "color": "(React JS)", "vin": "j6w54qgh", "handleClick":"https://csb-285sg.vercel.app/" },
+        { "brand": "Casting-Agency", "format": "png", "heigth":"120", "width":"50", "year": 2020, "color": "(Python Flask)", "vin": "hrtwy34", "handleClick":"https://castingagencyfsnd1.herokuapp.com/" },
+        { "brand": "Snake-Game", "format": "png", "heigth":"120", "width":"85", "year": 2020, "color": "(Phaser JS)", "vin": "jejtyj", "handleClick":"https://polar-tor-85813.herokuapp.com/" },
+        { "brand": "API-List-Video", "format": "png", "heigth":"120", "width":"130", "year": 2020, "color": "(API REST PHP)", "vin": "g43gr", "handleClick":"https://ancient-mesa-14736.herokuapp.com/API/lista-de-videos.php" },
+        { "brand": "Video-Streaming-App", "format": "png", "heigth":"120", "width":"80", "year": 2020, "color": "(Angular JS)", "vin": "greg34", "handleClick":"https://angularvideostreaming.herokuapp.com/" }
+    ]
+}

@@ -3,14 +3,11 @@ import ReactDOM from 'react-dom';
 import './index.css';
 //import App from './App';
 import * as serviceWorker from './serviceWorker';
-import HelloWorld from './components/hello-world/HelloWorld';
-import ComponentImagesAdvanced from './components/Component-Images-Advanced/ComponentImagesAvanced';
-
+import HomePage from './components/home-page/HomePage';
 
 ReactDOM.render(
   <React.StrictMode>
-    <HelloWorld name="Darwin Palma" images="Projects" type='note'/>
-    <ComponentImagesAdvanced/>
+    <HomePage name="Darwin Palma" images="Projects" type='note'/>
     {/* <App/> */}
   </React.StrictMode>,
   document.getElementById('root')
