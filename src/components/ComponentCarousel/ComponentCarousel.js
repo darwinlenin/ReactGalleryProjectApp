@@ -62,7 +62,7 @@ export default class ComponentCarousel extends Component {
                         <div className="car-buttons">
                             <Button icon="pi pi-search" className="p-button-secondary"  onClick={event =>  window.open(car.handleClick,"_blank")} />
                             <Button icon="pi pi-star" className="p-button-secondary" onClick={event =>  window.open(car.handleClick,"_blank")} />
-                            <Button icon="pi pi-cog" className="p-button-secondary" onClick={event =>  window.open(car.handleClick,"_blank")} />
+                            <Button icon="pi pi-cog" className="p-button-secondary" onClick={event =>  window.open(car.gitHubLink,"_blank")} />
                         </div>
                     </div>
                 </div>
